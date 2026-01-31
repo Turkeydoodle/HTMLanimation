@@ -32,6 +32,7 @@ function animate() {
     if (drawing) {
         ctx.fillRect(x, y, 50, 50);
     }
+    ctx.fillRect(0, 0, 50, 50);
     requestAnimationFrame(animate);
 }
 animate();
