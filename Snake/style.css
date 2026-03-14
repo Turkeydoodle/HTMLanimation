@@ -1,5 +1,17 @@
 canvas {
-    background-color: lightgrey;
+    background-color: lightskyblue;
     display: block;
     margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'times new roman';
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'times new roman';
 }
